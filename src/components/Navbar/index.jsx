@@ -153,6 +153,32 @@ const LinkedInButton = styled.a`
     }
 `;
 
+const HireMeButton = styled.a`
+  background-color : transparent;
+  color: ${({theme}) => theme.primary};
+  border: 1.8px solid ${({ theme }) => theme.primary};
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  height: 70%;
+  border-radius: 20px;
+  color: ${({ theme }) => theme.primary};
+  cursor: pointer;
+  padding: 0 20px;
+  margin : 5px;
+  font-weight: 500;
+  text-decoration: none;
+  font-size: 16px;
+  transition: all 0.6s ease-in-out;
+    :hover {
+      background: ${({ theme }) => theme.primary};
+      color: ${({ theme }) => theme.white};     
+    }
+    @media screen and (max-width: 768px) { 
+    font-size: 14px;
+    }
+`;
+
 const Span = styled.div`
 padding :0 4px;
 font-weight : bold;
@@ -227,8 +253,9 @@ const Navbar = () => {
                 </NavItems>
                 <ButtonContainer>
 
-                    <GitHubButton href ="https://github.com/aditiyax" target = "_blank">Github Profile</GitHubButton> 
-                    <LinkedInButton  href = "https://www.linkedin.com/in/aditya-sharma-497a191b3/" target = "_blank">Linked-In Profile </LinkedInButton>
+                    <GitHubButton href ="https://github.com/aditiyax" target = "_blank"> Github </GitHubButton> 
+                    <LinkedInButton  href = "https://www.linkedin.com/in/aditya-sharma-497a191b3/" target = "_blank"> Linked-In  </LinkedInButton>
+                    
                 </ButtonContainer>
                 {
           open && 

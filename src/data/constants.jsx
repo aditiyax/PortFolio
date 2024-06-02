@@ -10,7 +10,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/aditiyax",
     resume:
-      "https://drive.google.com/file/d/1pMfPr2-yB8P55w3fxEdhhsdzAQyyBYdv/view?usp=sharing",
+      "https://drive.google.com/file/d/13zCn8iF0vHXJBi-CECpzu1ljD27CA5xu/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/aditya-sharma-497a191b3/",
     insta: "https://www.instagram.com/adityashxrmaa/",
     
@@ -29,12 +29,16 @@ export const Bio = {
         {
           name: "Recoil",
           image :
-          "https://recoiljs.org/img/logo.svg"
+          "data:image/png;base64,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"
         },
         {
           name: "Next Js",
           image:
             "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
+        },
+        {
+          name: "Redux",
+          image: "https://redux.js.org/img/redux.svg",
         },
         {
           name: "HTML",
@@ -49,6 +53,10 @@ export const Bio = {
           name : "Tailwind CSS",
           image: 
           "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+        },
+        {
+          name: "Vanilla CSS",
+          image: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAzFBMVEX////h4eEAAABlZWU3NzdcXFzo6Oipqak/Pz+GhobMzMyUlJTFxcX5+fm0tLTx8fFHR0e6urpubm4cHBxRUVF2dnYtLS2Ojo7c3eAoKChpandqb3cAABbi0RXZyRjYwxbQmADYnQAAACT/9ir/7Cv95SnzsRvztRz9vBkACiXZyiXQmhg8P1IvKwBnYBJjSwwtHgA+RlJAOAD/8Sw7HQAhJkD86iv52yfnqhIkMEGfoKemmQD2yyOecgAwEgB5bgByTQBXWWRnXgBjQQB5FA9FAAABGklEQVR4AZRPAwIEMQzczjqp3f8/9GxfbHT/ghBf8uiHzxXoxulTfl5WgN6mCQvL/ZR3cMgoDfOuwDrtEVYH9TrPGPmwP76+UxwenHRCfr1EBZpHLEWqzvGrghH9XPeGcUN8cQXzYc/cI6+k43OB88QWkel0zyNMOXgtzmfCPRW0elA1wjKpbSX0gMQwEAUA9Jfj7rA2dlMrNu5/ptjOGy2/xv3imMGHetE2Z7ZMrDwzyFpvtpHd3nVYQ9bxdI5cMCGEunZ9sN7cIru7q5Bi9ni+Iu/3+/OdQQ76nf4hTCgaQQFzYQMcJrwARaL0Z30yJooIReh5Yj1ngikVQQmGDRQyRCaaXyZHKH0CpYyf6XpbtAEVxnPfGLpwAK57JgwhjppnAAAAAElFTkSuQmCC",
         },
         {
           name: "JavaScript",
@@ -75,6 +83,11 @@ export const Bio = {
           "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////8/Pz09PT19fX4+Pjd3d2ampoAAAAzNDWoqKno6Oh0dHRcXFzIycm5ubktLi4hIiN7e3yLi4tmZ2fi4uI9Pj7S0tIHCQuzs7NJSkru7u6goKB+f3/W1taNjo69vb1PT1BsbW0VFRc3ODhehn9TAAAA30lEQVR4Ad3QhXHEMBBA0W8QmAVmTq7/HjOeDdSQewNiLfBukjRNM4A0TeCR/0wSpY0xtiihMgWPsraNnLWd8yFEE3vyOIwAeprhMQ5Lm8O6uT3hWPwKjQspj+zsLvlBuwNmV1DaukS+t3sqs8MWkAU7ejMiGnMhkjoCqnZmQ3CZPwM8Hy/8Hd7xF7BWzjQIxulCsJaQbG6r7xXR2zNHrn1s0AwhUdNPjunejTLxTlHedS89EOMwFAkobzR4ewFptRyI9tPY18uZkFIYzUO5akWU22BflYKx2xGX1Rn/yxf+uwzyBt/vSwAAAABJRU5ErkJggg=="
         },
         {
+          name: "Next Js",
+          image:
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
+        },
+        {
           name: "MySQL",
           image:
             "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
@@ -87,7 +100,16 @@ export const Bio = {
           name: "MongoDB",
           image:
             "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
-        },{
+        },
+        {
+          name: "Prisma",
+          image: "https://prismalens.vercel.app/header/logo-white.svg",
+        },
+        {
+          name: "ZOD",
+          image: "https://zod.dev/logo.svg",
+        },
+        {
           name : "Mongoose",
           image : "https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png"
         },
@@ -110,11 +132,24 @@ export const Bio = {
         },{
           name: "Java",
             image: "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-        }, {
+        }, 
+        {
+          name: "HTML",
+          image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
+        },
+        {
+          name: "SQL",
+          image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
+        },
+        {
           name: "JavaScript",
           image:
             "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
         },{
+          name: "TypeScript",
+          image: "https://static-production.npmjs.com/255a118f56f5346b97e56325a1217a16.svg",
+        },
+        {
           name: "Python",
           image :
           "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png"
@@ -122,7 +157,7 @@ export const Bio = {
       ]
     },
     {
-      title: "Others",
+      title: "Other Tools",
       skills: [
         {
           name: "Git",
@@ -158,7 +193,20 @@ export const Bio = {
           name : "Bash",
           image : 
           "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/768px-Bash_Logo_Colored.svg.png?20180723054350"
-        }
+        }, 
+        {
+          name : "CloudFlare",
+          image :
+          "https://images.softwaresuggest.com/software_logo/cloudflarecdn-20231211180926.png"
+        },{
+          name: "AWS",
+          image :
+          "https://static.toiimg.com/thumb/msid-76581404,imgsize-18492,width-400,resizemode-4/76581404.jpg"
+        },{
+          name : "Vercel",
+          image :
+"https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png"      
+  }
       ],
     }
   ];
@@ -228,7 +276,7 @@ export const Bio = {
       description:
         "Bike Rental System is a web application designed to streamline task management and ease the process  of Renting bikes. It provides a user-friendly interface for Users to keep track of their rental activities and empowers to log their usage efficiently.",
       image:
-        "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVH6JaE7ybBMTJdPkNL55yjN1R_m8BwQClfA&s",
       tags: [
         "Java",
         "Hibernate",
@@ -241,12 +289,12 @@ export const Bio = {
     },
     {
       id: 0,
-      title: "Podstream",
-      date: "Apr 2023 - May 2023",
+      title: "Task Managemeny System",
+      date: "Apr 2024 - May 2024",
       description:
-        "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+        "Developed a full-stack web application that allows users to add, manage, and update their todo's on demand. Implemented user authentication and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
       image:
-        "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+        "https://mayurik.com/uploads/P1500/task%20management%20system.jpg",
       tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
       github: "https://github.com/rishavchanda/Podstream",
     
@@ -263,14 +311,35 @@ export const Bio = {
         github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
     },
     {
+      id: 5,
+      title: "Todo Web App",
+      date: "May 2022 - Aug 2022",
+      description:
+        " A Todo Web App made with React JS, , and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
+      image:
+         "https://res.cloudinary.com/practicaldev/image/fetch/s--GgCweOdu--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/tm49h6115wbkd7u5qpmr.jpg",
+         tags : ["React Js", "HTML", "Node Js", "CSS"],
+         github: "https://github.com/rishavchanda/Todo-Web-App"
+    },{
+      id: 10,
+      title: "Online Wallet App(Paytm Clone)",
+      date: "Feb 2024 - Mar 2024",
+      description:
+        " A Paytm Wallet Clone App made with React JS, , and Material UI. It has a interface page where users can send desired amounts from thier accounts to their friend's acoount. It uses a transactions where either the process gets executed sucessfully or gets rejected.",
+      image:
+         "https://miro.medium.com/v2/resize:fit:3840/1*TigMdEMInD9SrCVUica9ng.jpeg",
+         tags : ["React Js", "Express Js", "Node Js", "Tailwind-CSS", "MongoDb"],
+         github: "https://github.com/rishavchanda/Todo-Web-App"
+    },
+    {
       id: 4,
       title: "Liver Disease Prediction Project",
       date: "May 2023 - July 2023",
       description:
         "Preprocessed and augmented the dataset to improve model accuracy, trained the model, Achieved an accuracy of 99.2% to accurately detect Liver Disease from medical parameters.",
       image:
-        "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-      tags: ["Python", "Pandas", "numPy", "MatPlotlib"],
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaBLvVWy4vooijWXrTHYf92Awi3hCSo0IO7w&s",
+       tags: ["Python", "Pandas", "numPy", "MatPlotlib"],
       github: "https://github.com/aditiyax/Liver-Disease-Prediction-Project",
         
     },
@@ -281,21 +350,9 @@ export const Bio = {
       description:
         "A Heart Disease Prediction Software that can predict and prevent heart diseases Using AI And ML Algorithms. Unlocking the power of AI: Python-powered heart disease prediction model for personalized wellness. Python meets heart health: Building an AI-based tool for heart disease risk assessment..",
       image:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQiewLfHgNFMSsI3hEU6XAgOOF0K99CnM2qA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsI1IjSiaKQz2XHByMSCagZ8ruQzlg4XW_KA&s",
         tags: ["Python", "Pandas", "numPy", "MatPlotlib"],
         github: "https://github.com/rishavchanda/Job-finder-App",
-    },
-    
-    {
-      id: 5,
-      title: "Todo Web App",
-      date: "May 2022 - Aug 2022",
-      description:
-        " A Todo Web App made with React JS, , and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
-      image:
-         "https://res.cloudinary.com/practicaldev/image/fetch/s--GgCweOdu--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/tm49h6115wbkd7u5qpmr.jpg",
-         tags : ["React Js", "HTML", "Node Js", "CSS"],
-         github: "https://github.com/rishavchanda/Todo-Web-App"
     },
     {
       id: 7,
