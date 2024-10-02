@@ -10,7 +10,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/aditiyax",
     resume:
-      "https://drive.google.com/file/d/13zCn8iF0vHXJBi-CECpzu1ljD27CA5xu/view?usp=sharing",
+      "https://drive.google.com/file/d/1oo8PUJNB7-egFuPqoN3PtVcM1vizO4Q8/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/aditya-sharma-497a191b3/",
     insta: "https://www.instagram.com/adityashxrmaa/",
     
